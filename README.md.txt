@@ -1,17 +1,29 @@
-# Sales Dashboard - Power BI
+# Power BI Sales Dashboard
+
+## Project Overview
+This project presents an interactive Sales Dashboard built using Power BI. The dashboard provides insights into sales performance, profit analysis, and regional sales trends.
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
+## Dataset
+The dataset contains sales data including:
+- Sales Amount
+- Profit
+- Region
+- Category
+- Order Date
 
 ## Tools Used
-Power BI, Excel, DAX
+- Power BI
+- Excel
+- Data Visualization
 
-## Dashboard Features
-- KPI Cards (Total Sales, Profit)
-- Bar Chart (Sales by Region)
-- Pie Chart (Sales by Category)
-- Line Chart (Sales by Month)
-- Slicer (Region Filter)
-- Drill Down
+## Key Insights
+- Regional Sales Performance
+- Profit Analysis
+- Monthly Sales Trend
+- Category-wise Sales
 
-## Insights
-- West region has highest sales
-- Technology category has highest profit
-- Sales increased in November and December
+## Author
+Swati
